@@ -1,1 +1,3 @@
-### You can check our project report (Turkish). If you want to try this project you need to download GoogleNews-vectors-negative300.bin.
+If you want to try this project you need to download 'GoogleNews-vectors-negative300.bin.'. Here is the link : https://www.kaggle.com/datasets/leadbest/googlenewsvectorsnegative300 . After you download you can just add project file.
+
+This project was created in PyCharm. The goal of the project is to create a text summarizer and it uses the graph structure to do so. The user selects the file containing the text and enters some graph dependent metrics on the screen and also chooses Word Embedding or BERT for summarization. The application then creates a graph structure using the Networkx library according to the entered text and displays it to the user. When the user clicks on the summarize button, it prints the summary text and the ROUGE score on the screen.
